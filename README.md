@@ -8,3 +8,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/MarcosApps/)](https://t.me/MarcosApps/)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcosApp&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/MarcosApp)
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MarcosApp&show_icons=true&theme=tokyonight&line_height=27">
+</p>
