@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 Find me on the networks ...   
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosApp.visitor-badge)](https://github.com/MarcosApp)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MarcosApp.profile)](https://github.com/MarcosApp)
 
 <a href="https://stackoverflow.com/users/9789186/marcosapps"><img src="https://stackoverflow.com/users/flair/9789186.png" width="208" height="58" alt="profile for MarcosApps at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MarcosApps at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
